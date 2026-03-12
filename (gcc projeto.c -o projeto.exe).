@@ -1,1 +1,12 @@
-(gcc projeto.c -o projeto.exe).
+#include  <stdio.h>
+int main() {
+
+}int numero;
+printf ("digite um número: ");
+scanf("%d , &numero);
+prinf("Você digitou: %d\n", numero);
+return 0;
+
+
+gcc projeto.c -o projeto.exe./projeto.exe
+
